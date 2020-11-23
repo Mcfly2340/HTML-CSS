@@ -1,0 +1,23 @@
+body {
+    background: #fff800;
+    font-family: "Arial", "sans-serif";
+    width: 960px;
+    padding: 20px;
+}
+header  {
+    background: #ff0004;
+    margin-bottom: 30px;
+}
+section {
+    background: #00ff01;
+    border: 1px black solid;
+}
+footer{
+    background: black;
+    color: white;
+    padding: 20px;
+}
+div.wrapper{
+    width: 1000px;
+    margin: auto;
+}
