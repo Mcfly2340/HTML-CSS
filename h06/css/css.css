@@ -1,0 +1,74 @@
+html {
+    background: white;
+}
+
+body {
+    width: 1000px;
+    margin: auto;
+    background: #fdeceb;
+    padding: 20px;
+    font-family: "Arial", "sans-serif";
+}
+
+nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav a{
+    padding-right: 10px;
+}
+
+header  {
+    color: white;
+}
+
+img.Apple{
+    width: 517px;
+    height: 50%;
+    padding-top: 20px;
+}
+
+img.Visuals{
+    width: 465px;
+    margin-bottom: 13px;
+}
+
+img.Article{
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+section.Apple, section.Visuals {
+    width: 50%;
+    float: left;
+}
+
+section.Visuals{
+    text-align: right;
+    padding-top: 20px;
+}
+
+article{
+    display: inline-block;
+    width:  30%;
+    padding-right: 40px;
+    vertical-align: top;
+}
+article:last-child{
+    padding-right: 1px;
+}
+
+div#wrapper{
+}
+footer{
+    background: #777779;
+    width: 1000px;
+    padding: 40px;
+    line-height: 20px;
+    color: white;
+}
+footer.a{
+    color: white;
+}

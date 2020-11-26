@@ -1,0 +1,41 @@
+div.form-group {
+    padding: 10px;
+}
+div.buttons{
+    float: right;
+    width: 160px;
+}
+div.radio{
+    float: left;
+    width: 110px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+div.geslacht{
+    float: left;
+    padding: 10px;
+    width: 100%;
+}
+div.kleur{
+    width:80px;
+    float: left;
+    padding: 10px;
+    margin-left: 10px;
+}
+div.kleurBox{
+    width:300px;
+    padding: 10px;
+    padding-left: 10px;
+}
+div.omschrijving{
+    padding: 20px;
+    float: left;
+}
+div.eten{
+    width:160px;
+    height:160px;
+    float: right;
+    padding-top: 30px;
+    padding-right: 80px;
+
+}
